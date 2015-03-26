@@ -1,5 +1,5 @@
 #include<bits/stdc++.h>
-#define SIZE 10010
+#define SIZE 1001
 using namespace std;
 struct node
 {
